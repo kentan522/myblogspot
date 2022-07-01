@@ -3,10 +3,10 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../../../.gem/ruby/3.1.2/gems/minima-2.5.1/_sass/minima.scss",
-		"../../../../.gem/ruby/3.1.2/gems/minima-2.5.1/_sass/minima/_base.scss",
-		"../../../../.gem/ruby/3.1.2/gems/minima-2.5.1/_sass/minima/_layout.scss",
-		"../../../../.gem/ruby/3.1.2/gems/minima-2.5.1/_sass/minima/_syntax-highlighting.scss"
+		"../../../.gem/ruby/3.1.2/gems/minima-2.5.1/_sass/minima.scss",
+		"../../../.gem/ruby/3.1.2/gems/minima-2.5.1/_sass/minima/_base.scss",
+		"../../../.gem/ruby/3.1.2/gems/minima-2.5.1/_sass/minima/_layout.scss",
+		"../../../.gem/ruby/3.1.2/gems/minima-2.5.1/_sass/minima/_syntax-highlighting.scss"
 	],
 	"sourcesContent": [
 		"@import \"minima\";\n\n.site-header, .site-footer {\n\tbackground-color: rgb(236, 228, 228);\n\tbackground-image: linear-gradient(to top, #DECBA4, hsl(180, 46%, 84%));\n}\n\n.site-header {\n\tborder-bottom: solid 2px black;\n}\n\n.site-footer {\n\tborder-top: solid 2px black;\n\n}\n\n.footer-col-3 p {\n\tcolor: black;\n}\n\n.p-name {\n\tcolor: black;\n}",
