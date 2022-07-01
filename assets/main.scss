@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-header, .site-footer {
+	background-color: rgb(236, 228, 228);
+	background-image: linear-gradient(to top, #DECBA4, hsl(180, 46%, 84%));
+}
+
+.site-header {
+	border-bottom: solid 2px black;
+}
+
+.site-footer {
+	border-top: solid 2px black;
+
+}
+
+.footer-col-3 p {
+	color: black;
+}
+
+.p-name {
+	color: black;
+}
