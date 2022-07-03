@@ -1,0 +1,51 @@
+I"<p>Humans spend money on a daily basis, be it for shopping, basic necessities, or even for the occasional getaway trip out of town. Money comes in many forms - a metal coin, a piece of paper or even a string of code electronically mined by a computer. But what gives money its value? Who defines and control the value and supply of money? Does it really have any intrinsic value? To understand this, let’s dive right into the history of modern money.</p>
+
+<h4 id="the-history-of-modern-money"><strong>The History of Modern Money</strong></h4>
+<p>In the olden days of traditional monetary policy, the supply of money within an economy was fixed. Back then, money was in the form of precious metals, and the only way to get money is the work for it (literally mine the precious metals) or sell something valuable in exchange for it.</p>
+
+<p><img src="images/Modern-Money/mining.jpeg" alt="Image of Mining" /></p>
+
+<p>This leads to a proportional relationship between the value of money and economic goods and services - as economic output increases, the value of money increases.</p>
+
+<p>Eventually, it was decided that using heavy precious metals as a store of wealth/means of economic activity is far too inconvenient. Banks started existing and took care of the precious metals for you, in exchange for a piece of paper, which is universally known as <strong>fiat money</strong>.</p>
+
+<p>Slowly, the general population got accustomed to the use of fiat paper money in their daily lives. Since fiat currency were societally accepted, virtually nobody returned to the banks to redeem their precious metals (hereon refered to as “gold”). The banks, responsible for storing gold for people safely, came up with an idea of lending these gold out, while profitting from a set interest rate. <strong>Here’s the catch</strong>: the gold being lent out into the economy were <em>already in circulation</em> given that they were initially stored in the banks in exchange for fiat money. Money was pretty much being created in the economy of thin air!</p>
+
+<p>This ultimately lead to more money being pumped into circulation, which lead to an increase in the supply of money, an increase in economic output and an increase in the price of goods and services. Due to the supply of money not being constant anymore, the value of money essentially becomes <em>diluted</em>.</p>
+
+<p><img src="images/Modern-Money/Fig1.jpeg" alt="Figure of Money Supply Increase" />
+| <em>Figure depicting the impacts of an increase in money supply.</em> |</p>
+
+<p>Of course, with an increase of demand towards goods and services (due to more money in circulation), their prices will naturally increase too. This gives people a false impression that they are getting richer as the prices of their assets are increasing in value, but in fact, what is really happening is <strong>inflation</strong>. At some point, borrowing became expensive, and people in debt rely on their savings to pay back the loans they owe the banks. Some people would have to default on their assets, causing them to be liquidated, which ultimately leads to a <strong>recession</strong>. This is all the result of lending out money already in circulation, which is known today as <strong>fractional reserve banking</strong>.</p>
+
+<h4 id="fractional-reserve-banking"><strong>Fractional Reserve Banking</strong></h4>
+<p>Fractional reserve banking is defined as follows:</p>
+
+<blockquote>
+  <p>A banking system in which only a fraction of bank deposits are backed by actual cash on hand and available for withdrawal.</p>
+</blockquote>
+
+<p>The word “fractional” refers to the fraction of deposits held in reserves. For example, if a bank has £100 million in assets, it may be required (by law) to hold £10 million (i.e 10%).</p>
+
+<p>This type of banking system is an accepted business practice worldwide, but it has both pros and cons. For one, permitting the bank to lend out funds that would be otherwise unused allows them to generate returns, as well as to stimulate economic growth by injecting more capital into the system. However, imagine a scenario where everyone goes to the bank to withdraw their money - yeah, this spells disaster, especially when only a fraction of the deposits are held in reserves. Bank runs has historically happened due to incidents like the <a href="https://www.investopedia.com/terms/s/stock-market-crash-1929.asp">big stock market crash of 1929</a>.</p>
+
+<p><img src="images/Modern-Money/bankrun.jpeg" alt="Bank Run Image" />
+| <em>Figure showing a scenario of a bank run - horrifying.</em> |</p>
+
+<h4 id="the-central-bank"><strong>The Central Bank</strong></h4>
+<p>To counteract the potential bank runs that may occur due to fractional reserve banking, Central Banks was born. Just like how a bank lends money to individuals, Central Banks serve to lend out money to normal (commercial) banks in the event withdrawals exceed the amount they hold in reserves. This causes the risk of bank runs to be transferred to the Central Bank. By definition:</p>
+
+<blockquote>
+  <p>A Central Bank is a financial institution given privileged control over the production and distribution of money and credit for a nation or a group of nations.</p>
+</blockquote>
+
+<p>Central Banks are tasked with controlling and manipulating the national money supply. This is done primarily by:</p>
+<ul>
+  <li>Setting interest rates on loans and bonds. This allows interest rates to be raised to slow growth and avoid inflation (discouraging excessive borrowing), or lowered to encourage growth (encouraging borrowing).</li>
+  <li>Regulating the reserve requirements of banks. Figuring out the optimal reserve requirements for a bank to both maximise economic growth and minimise the risk of overwithdrawals are handled by Central Banks.</li>
+  <li>Act as an emergency lender to distressed commercial banks and other institutions. This has lead to the term <a href="https://www.investopedia.com/terms/t/too-big-to-fail.asp">Too Big to Fail</a>.</li>
+</ul>
+
+<p>The Central Bank of the US, also known as the Federal Reserve, can be said to be the Central Bank for all other Central Banks in the world due to their monopoly on gold. Feel free to read more about how this happened here: <a href="https://theconversation.com/how-the-us-government-seized-all-citizens-gold-in-1930s-138467">How the US Government seized all citizens’ gold in 1930s</a>.</p>
+
+:ET
