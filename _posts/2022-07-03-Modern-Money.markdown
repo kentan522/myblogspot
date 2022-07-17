@@ -9,9 +9,11 @@ permalink: /Modern_Money
 Humans spend money on a daily basis, be it for shopping, basic necessities, or even for the occasional getaway trip out of town. Money comes in many forms - a metal coin, a piece of paper or even a string of code electronically mined by a computer. But what gives money its value? Who defines and control the value and supply of money? Does it really have any intrinsic value? To understand this, let's dive right into the history of modern money. 
 
 #### **The History of Modern Money**
-In the olden days of traditional monetary policy, the supply of money within an economy was fixed. Back then, money was in the form of precious metals, and the only way to get money is the work for it (literally mine the precious metals) or sell something valuable in exchange for it.
+In the olden days of traditional monetary policy, the supply of money within an economy was fixed. Back then, money was in the form of preciousmetals, and the only way to get money is the work for it (literally mine the precious metals) or sell something valuable in exchange for it.
 
-![Image of Mining](images/Modern-Money/mining.jpeg)
+<p align="center">
+  <img src="images/Modern-Money/mining.jpeg" />
+</p>
 
 This leads to a proportional relationship between the value of money and economic goods and services - as economic output increases, the value of money increases.
 
@@ -21,8 +23,11 @@ Slowly, the general population got accustomed to the use of fiat paper money in 
 
 This ultimately lead to more money being pumped into circulation, which lead to an increase in the supply of money, an increase in economic output and an increase in the price of goods and services. Due to the supply of money not being constant anymore, the value of money essentially becomes *diluted*.
 
-![Figure of Money Supply Increase](images/Modern-Money/Fig1.jpeg)
-| *Figure depicting the impacts of an increase in money supply.* |
+<p align="center">
+  <img src="images/Modern-Money/Fig1.jpeg" />
+</p>
+<p align="center"><i>Figure depicting the impacts of an increase in money supply.</i></p>
+
 
 Of course, with an increase of demand towards goods and services (due to more money in circulation), their prices will naturally increase too. This gives people a false impression that they are getting richer as the prices of their assets are increasing in value, but in fact, what is really happening is **inflation**. At some point, borrowing became expensive, and people in debt rely on their savings to pay back the loans they owe the banks. Some people would have to default on their assets, causing them to be liquidated, which ultimately leads to a **recession**. This is all the result of lending out money already in circulation, which is known today as **fractional reserve banking**.
 
@@ -35,8 +40,10 @@ The word "fractional" refers to the fraction of deposits held in reserves. For e
 
 This type of banking system is an accepted business practice worldwide, but it has both pros and cons. For one, permitting the bank to lend out funds that would be otherwise unused allows them to generate returns, as well as to stimulate economic growth by injecting more capital into the system. However, imagine a scenario where everyone goes to the bank to withdraw their money - yeah, this spells disaster, especially when only a fraction of the deposits are held in reserves. Bank runs has historically happened due to incidents like the [big stock market crash of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp).
 
-![Bank Run Image](images/Modern-Money/bankrun.jpeg)
-| *Figure showing a scenario of a bank run - horrifying.* |
+<p align="center">
+  <img src="images/Modern-Money/bankrun.jpeg" />
+</p>
+<p align="center"><i>Figure showing a scenario of a bank run - horrifying.</i></p>
 
 #### **The Central Bank**
 To counteract the potential bank runs that may occur due to fractional reserve banking, Central Banks was born. Just like how a bank lends money to individuals, Central Banks serve to lend out money to normal (commercial) banks in the event withdrawals exceed the amount they hold in reserves. This causes the risk of bank runs to be transferred to the Central Bank. By definition:
@@ -63,6 +70,5 @@ Many economic pundits are criticising the handling of the economy via the curren
 
 #### **Conclusion**
 Just like all things in life, nothing is flawless, and it is likely that no monetary policy ever will be perfect. There is a trade-off when it comes to everything. I hope this blog post serves as a useful reference when it comes to modern money. 
-
 
 **Note that this blog post may not be entirely correct, I am no economic expert, these are all based off of my reading and research.*

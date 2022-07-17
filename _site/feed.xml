@@ -1,9 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/myblogspot/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/myblogspot/" rel="alternate" type="text/html" /><updated>2022-07-03T19:18:53+01:00</updated><id>http://localhost:4000/myblogspot/feed.xml</id><title type="html">Ken’s Blogspot</title><subtitle>On my blog, I pen down my bursts of thoughts on things I come across/find interesting.  It could be anything, really, because I am quite a random person. Feel free to reach out  for a discussion if you&apos;re interested in whatever I write about.</subtitle><author><name>Ken Tan</name></author><entry><title type="html">Modern Money</title><link href="http://localhost:4000/myblogspot/Modern_Money" rel="alternate" type="text/html" title="Modern Money" /><published>2022-07-03T00:00:00+01:00</published><updated>2022-07-03T00:00:00+01:00</updated><id>http://localhost:4000/myblogspot/Modern-Money</id><content type="html" xml:base="http://localhost:4000/myblogspot/Modern_Money"><![CDATA[<p>Humans spend money on a daily basis, be it for shopping, basic necessities, or even for the occasional getaway trip out of town. Money comes in many forms - a metal coin, a piece of paper or even a string of code electronically mined by a computer. But what gives money its value? Who defines and control the value and supply of money? Does it really have any intrinsic value? To understand this, let’s dive right into the history of modern money.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/myblogspot/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/myblogspot/" rel="alternate" type="text/html" /><updated>2022-07-18T00:50:09+01:00</updated><id>http://localhost:4000/myblogspot/feed.xml</id><title type="html">Ken’s Blogspot</title><subtitle>On my blog, I pen down my bursts of thoughts on things I come across/find interesting.  It could be anything, really, because I am quite a random person. Feel free to reach out  for a discussion if you&apos;re interested in whatever I write about.</subtitle><author><name>Ken Tan</name></author><entry><title type="html">Donating Blood</title><link href="http://localhost:4000/myblogspot/Donating%20Blood" rel="alternate" type="text/html" title="Donating Blood" /><published>2022-07-16T00:00:00+01:00</published><updated>2022-07-16T00:00:00+01:00</updated><id>http://localhost:4000/myblogspot/Donating-Blood</id><content type="html" xml:base="http://localhost:4000/myblogspot/Donating%20Blood"><![CDATA[<p>Back when I first hit 18, I was immediately reminded eagerly by my dad that I would finally be eligible to volunteer as a blood donor. Being someone who religiously donated his own blood every 2-3 months from a youthful age of 18 (note that he is over 50 now and has barely missed a single donation), he attests that because of his habitual routine, he has managed to stay healthy enough to circumvent any common age-related health issues.</p>
+
+<p>Through my observations of his health, his claims are not without substance, yet people are still doubtful, and rightfully so - research on individuals who donate blood regularly and consistently are very scarce due to the lack of such dilligent individuals. According to the <a href="https://www.redcrossblood.org/donate-blood/how-to-donate/how-blood-donations-help/blood-needs-blood-supply.html">American Red Cross</a>, only an estimated of <strong>3% of age-eligible people actually donate yearly</strong> in the US. If you are a blood donor yourself, think about it - how regularly do you actually donate?</p>
+
+<p align="center">
+  <img src="images/Donating-Blood/blood-donation-us.jpeg" />
+</p>
+<p align="center"><i>Blood donation infographic based on stats from the American Red Cross.</i></p>
+
+<p>At the time of writing this, I have just returned from my 14th blood donation with a sore left arm, which inspired me to start writing this blog post. Here is my research and summary on some of the reasons why I think you should also donate more regularly.</p>
+
+<h3 id="reasons-you-should-donate-blood-regularly"><strong>Reasons you should donate blood regularly</strong></h3>
+<h4 id="1-for-a-good-societal-cause"><strong>1. For a Good Societal Cause</strong></h4>
+<p>Here’s a quick fact - every two seconds, someone in the U.S. requires a blood transfusion. Donated blood is used for helping people injured in accidents, undergoing cancer treatment or even battling blood diseases.</p>
+
+<p>Just early this year (January, 2022), the American Red Cross has announced that it was facing its worst blood shortage in a decade - people are less inclined to leave their homes due to the coronavirus outbreak, leading to the loss of blood collections due to societal closures. Furthermore, people taking vaccine jabs may or may not be eligible for blood donations for a while. This alarming drop in donations, coupled with the yet again rising COVID cases mean that <strong>blood donors are needed now more than ever before.</strong></p>
+
+<p>Medicinal and technological advancements are always progressive and ever so evolving, leading to new discoveries on ways to treat complex diseases. But one thing remains constant - the reliance on the goodness of human beings to provide blood. <strong>The blood you give is a lifeline</strong> in an emergency (accidents) and also for people who need blood transfusion for long-term treatments. Because of the different blood types we all possess, rare blood types such as O negative are even more in need. This is due to the fact that O negative red blood cells can be used in emergencies when the person’s blood is unknown since anyone can receive red blood cells from O negative donors. It is <a href="https://www.blood.co.uk/why-give-blood/demand-for-different-blood-types/">estimated</a> that only around <strong>8% of people have O negative blood</strong>, but <strong>O negative makes up 13% of blood transfusion requests</strong> from hospitals.</p>
+
+<p align="center">
+  <img src="images/Donating-Blood/bloodtype.jpeg" />
+</p>
+<p align="center"><i>Rarity of blood types in percentages.</i></p>
+
+<p>Another cool fact is that people who have recovered from COVID-19 may be able to help others with fighting this disease by donating blood plasma instead, according to the <a href="https://www.fda.gov">FDA</a>. This is due to the fact that blood plasma contains antibodies to fight the infection. So, if you’ve recovered from COVID-19 and are eligible for a blood donation, your blood is potentially more beneficial than you think!</p>
+
+<h4 id="2-surprising-health-benefits"><strong>2. Surprising Health Benefits!</strong></h4>
+<p>The standard procedure for a blood donor is to undergo a mini health screen performed by a trained staff member. More specifically, your pulse, blood pressure, weight, haemoglobin levels (and since COVID-19, your body temperature) will be checked. Infectious diseases that you are unaware of will also be screened for. This is provides an <strong>excellent insight into your health</strong>, as you will be required to be fit enough to partake in the blood donation scheme. If an issue just arise with your vital signs, you will definitely be directed to a physician to be checked for more thoroughly.</p>
+
+<p>Another more intrinsic health benefit from regular blood donations is that it helps to <strong>reduce cardiovascular risk factors</strong>. Basically, donating blood helps lower the viscosity of your blood, which has been associated with the formation of blood clots, heart attacks and strokes. According to a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3663474/">study</a>, donating blood regularly lowers iron stores, which have been believed to increase the risk of a heart attack.</p>
+
+<p>Partaking in this pursuit of kindness during a time of need does wonders for your mental health too - it feels good to help others, and it has been shown that altruism and volunteering have been linked to positive health outcomes, including a <strong>lower risk for depression and greater longevity</strong>.</p>
+
+<h4 id="3-a-free-cheat-meal"><strong>3. A free cheat meal!</strong></h4>
+<p>According to the University of California, San Diego, <strong>donating blood burns about 500 calories per pint</strong>. Your body will even lose a substantial amount of weight, and you can think of donating a pint of blood to be equivalent to an hour of exercise. Do not worry, these are all transient effects that have been shown to not affect your health in the long-run. The good news is, you can go out and indulge in a fat cheesecake, guilt free! In all seriousness though, it’s important to stay hydrated and eat well before and after your blood donation session.</p>
+
+<p align="center">
+  <img src="images/Donating-Blood/cheesecake.jpeg" />
+</p>
+
+<h3 id="how-to-get-started"><strong>How to get started</strong></h3>
+<h4 id="london"><strong>London</strong></h4>
+<p>In London, I sign up to donate blood via <a href="https://www.blood.co.uk">NHS Blood and Transplant’s Give Blood website</a>. It’s really easy to get started, and typing in your postcode will filter the blood donation centres closest to you! I’ve been donating at the blood donation centre at Westfield Shopping Centre, near White City. Do take the first step to sign up as a blood donor if you haven’t already!</p>
+
+<h4 id="malaysia"><strong>Malaysia</strong></h4>
+<p>On this <a href="http://www.myhealth.gov.my/en/blood-donation/">website</a>, there is a table showing the list of blood banks for each state in Malaysia. I suggest ringing them up to confirm whether or not they have any blood donation drives scheduled, but from my experience, the state hospitals are always open for blood donation. Some other places such as shopping malls may have blood donation drives set up, but this only happens occasionally, so do check with your local state hospital regarding blood donation drives near you. Donating in Malaysia is as easy as simply walking in and filling up a form, before being checked for your eligibility, so do give it a go!</p>
+
+<h3 id="conclusion"><strong>Conclusion</strong></h3>
+
+<p>Blood donors are a vital service to the community. You hold the power to make a difference in the lives of others, so why don’t you?</p>]]></content><author><name>Ken Tan</name></author><category term="blog" /><summary type="html"><![CDATA[Back when I first hit 18, I was immediately reminded eagerly by my dad that I would finally be eligible to volunteer as a blood donor. Being someone who religiously donated his own blood every 2-3 months from a youthful age of 18 (note that he is over 50 now and has barely missed a single donation), he attests that because of his habitual routine, he has managed to stay healthy enough to circumvent any common age-related health issues.]]></summary></entry><entry><title type="html">Modern Money</title><link href="http://localhost:4000/myblogspot/Modern_Money" rel="alternate" type="text/html" title="Modern Money" /><published>2022-07-03T00:00:00+01:00</published><updated>2022-07-03T00:00:00+01:00</updated><id>http://localhost:4000/myblogspot/Modern-Money</id><content type="html" xml:base="http://localhost:4000/myblogspot/Modern_Money"><![CDATA[<p>Humans spend money on a daily basis, be it for shopping, basic necessities, or even for the occasional getaway trip out of town. Money comes in many forms - a metal coin, a piece of paper or even a string of code electronically mined by a computer. But what gives money its value? Who defines and control the value and supply of money? Does it really have any intrinsic value? To understand this, let’s dive right into the history of modern money.</p>
 
 <h4 id="the-history-of-modern-money"><strong>The History of Modern Money</strong></h4>
-<p>In the olden days of traditional monetary policy, the supply of money within an economy was fixed. Back then, money was in the form of precious metals, and the only way to get money is the work for it (literally mine the precious metals) or sell something valuable in exchange for it.</p>
+<p>In the olden days of traditional monetary policy, the supply of money within an economy was fixed. Back then, money was in the form of preciousmetals, and the only way to get money is the work for it (literally mine the precious metals) or sell something valuable in exchange for it.</p>
 
-<p><img src="images/Modern-Money/mining.jpeg" alt="Image of Mining" /></p>
+<p align="center">
+  <img src="images/Modern-Money/mining.jpeg" />
+</p>
 
 <p>This leads to a proportional relationship between the value of money and economic goods and services - as economic output increases, the value of money increases.</p>
 
@@ -13,8 +64,10 @@
 
 <p>This ultimately lead to more money being pumped into circulation, which lead to an increase in the supply of money, an increase in economic output and an increase in the price of goods and services. Due to the supply of money not being constant anymore, the value of money essentially becomes <em>diluted</em>.</p>
 
-<p><img src="images/Modern-Money/Fig1.jpeg" alt="Figure of Money Supply Increase" />
-| <em>Figure depicting the impacts of an increase in money supply.</em> |</p>
+<p align="center">
+  <img src="images/Modern-Money/Fig1.jpeg" />
+</p>
+<p align="center"><i>Figure depicting the impacts of an increase in money supply.</i></p>
 
 <p>Of course, with an increase of demand towards goods and services (due to more money in circulation), their prices will naturally increase too. This gives people a false impression that they are getting richer as the prices of their assets are increasing in value, but in fact, what is really happening is <strong>inflation</strong>. At some point, borrowing became expensive, and people in debt rely on their savings to pay back the loans they owe the banks. Some people would have to default on their assets, causing them to be liquidated, which ultimately leads to a <strong>recession</strong>. This is all the result of lending out money already in circulation, which is known today as <strong>fractional reserve banking</strong>.</p>
 
@@ -29,8 +82,10 @@
 
 <p>This type of banking system is an accepted business practice worldwide, but it has both pros and cons. For one, permitting the bank to lend out funds that would be otherwise unused allows them to generate returns, as well as to stimulate economic growth by injecting more capital into the system. However, imagine a scenario where everyone goes to the bank to withdraw their money - yeah, this spells disaster, especially when only a fraction of the deposits are held in reserves. Bank runs has historically happened due to incidents like the <a href="https://www.investopedia.com/terms/s/stock-market-crash-1929.asp">big stock market crash of 1929</a>.</p>
 
-<p><img src="images/Modern-Money/bankrun.jpeg" alt="Bank Run Image" />
-| <em>Figure showing a scenario of a bank run - horrifying.</em> |</p>
+<p align="center">
+  <img src="images/Modern-Money/bankrun.jpeg" />
+</p>
+<p align="center"><i>Figure showing a scenario of a bank run - horrifying.</i></p>
 
 <h4 id="the-central-bank"><strong>The Central Bank</strong></h4>
 <p>To counteract the potential bank runs that may occur due to fractional reserve banking, Central Banks was born. Just like how a bank lends money to individuals, Central Banks serve to lend out money to normal (commercial) banks in the event withdrawals exceed the amount they hold in reserves. This causes the risk of bank runs to be transferred to the Central Bank. By definition:</p>
